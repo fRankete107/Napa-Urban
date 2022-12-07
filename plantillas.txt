@@ -1,0 +1,51 @@
+plantilla 1:
+
+        <div class="producto">
+            <a href=""><img src="" alt=""></a>
+            <p><b></b></p>
+            <p class="cuotas"></p>
+        </div>
+
+plantilla 2:
+
+    <header>
+        <!-- logo -->
+        <div class="logo"><a href="../index.html"><img src="../Imágenes/napa_urban_logo.png" alt="Napa Urban"></a></div>
+        <!-- barra de navegación -->
+        <nav class="barraNav" id="barraNav">
+            <ul>
+                <li><a href="../index.html">Inicio</a></li>
+                <li><a href="../Contacto.html">Contacto</a></li>
+                <li><a href="../Productos.html">Productos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <div class="container--productos">
+        <main>
+            <img src="" alt="" class="imagenMain">
+        </main>
+        <aside class="productos--aside">
+            <h2>Nombre</h2>
+            <p>Descripción</p>
+            <h3>Precio</h3>
+            <p>Cuotas</p>
+            <a href="pestañaCompra.html"><div class="botonCompra">
+                ¡Compra ya!
+            </div></a>
+        </aside>
+    </div>
+    <footer>
+        <div class="footer--container" id="footer--container">
+            <p><a href="https://www.instagram.com/napa.urban/">Seguinos en nuestras redes</a></p>
+            <p><a href="">Términos legales</a></p>
+            <p>©Napa Urban Copyright 2022</p>
+        </div>
+    </footer>
+
+    plantilla 3:
+
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap" rel="stylesheet">
